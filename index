@@ -1,0 +1,12 @@
+• Inside VS Code, create a new file named index.html.
+• Add the following code:
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First Website</title>
+</head>
+<body>
+    <h1>Hello, GitHub!</h1>
+    <p>This is my first website pushed to GitHub.</p>
+</body>
+</html>
